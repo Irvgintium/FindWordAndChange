@@ -21,7 +21,7 @@ To install the script in your Google Docs document, follow these steps:
 2. Click on "Extensions" in the top menu.
 3. Select "Apps Script" from the dropdown menu.
 4. A new tab will open with the Google Apps Script editor.
-5. Replace the existing code with the provided script.
+5. Replace the existing code with the provided script [*Script.gs*].
 6. Save the script by clicking on the floppy disk icon or pressing `Ctrl + S`.
 7. Close the Google Apps Script editor tab.
 8. Refresh your Google Docs document.
