@@ -49,6 +49,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ### Support
 
-If you encounter any issues or have any questions, please feel free to contact us at [email@example.com].
-
-That's an example of how you can structure and create a GitHub documentation for the script. Make sure to replace `[link-to-your-repository]` with the actual link to your GitHub repository, and `[email@example.com]` with your contact email. Feel free to modify and customize the documentation according to your requirements and preferences.
+If you encounter any issues or have any questions, please feel free to contact me at sputnikdrunk@gmail.com.
