@@ -41,7 +41,7 @@ For more information on Google Apps Script, please refer to the [official docume
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is unlicensed
 
 ### Contributions
 
